@@ -1,0 +1,60 @@
+body {
+    margin: 8% 0;
+}
+
+.img-thumbnail:hover {
+    padding: 4px;
+    background-color: #FFFFFF;
+}
+
+.img-thumbnail {
+    border: none;
+}
+
+.charSelect {
+    background-color: #AD1243;
+}
+
+.mapSelect {
+    background-color: #DBDB2B;
+}
+
+body {
+    background-color: #2A313B;
+}
+
+.mapSelect {
+    margin: 20px 0;
+}
+
+.invisible, .visible {
+    transition: all 1s ease-in-out;
+}
+
+#selectCharText {
+    font-size: 6vw;
+    color: white;
+}
+
+label {
+    font-family: 'Oswald', sans-serif;
+}
+
+input {
+    width: 24%;
+    margin: 0 10px;
+}
+
+.progress-bar {
+    line-height: 2rem;
+    height: 2rem;
+    font-size: 1rem;
+}
+
+.bg-primary {
+    background-color: #394f67!important;
+}
+
+#changeChar {
+    margin-top: 20px;
+}
